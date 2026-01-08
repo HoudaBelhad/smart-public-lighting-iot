@@ -54,7 +54,15 @@ Le système envoie les données en temps réel vers **ThingSpeak** pour monitori
                      │  (Orange)   │
                      └─────────────┘
 ```
+## 📌 Diagrammes et Visualisations
 
+### Schéma du Circuit
+![Circuit Diagram](images/circuit_diagram.png)
+
+### Dashboard ThingSpeak
+![ThingSpeak Dashboard](images/thingspeak_dashboard.png)
+
+---
 ### Algorithme de Décision
 
 #### 🔍 **Étape 1 : Lecture des Capteurs**
