@@ -9,6 +9,8 @@
 Système d'éclairage automatique intelligent qui **ajuste dynamiquement l'intensité lumineuse** en fonction de :
 - 🌙 **L'obscurité ambiante** (capteur LDR)
 - 🚶 **La présence de mouvement** (capteur PIR)
+  
+![Demo GIF](demogif/demo.gif)
 
 Le système envoie les données en temps réel vers **ThingSpeak** pour monitoring et analyse de consommation énergétique.
 
